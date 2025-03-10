@@ -1,11 +1,11 @@
-# Electronics pieces
-
-Click on the image of the piece or document to see how to use it.
 
 <p align="center">
     <img src="./assets/pages_qr.png" alt="qrcode of this page" width="400px"/>
 </p>
 <br/>
+
+
+**Click on the image of the piece to see how to use it with an arduino.**
 
 ## Sensors
 
