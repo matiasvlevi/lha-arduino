@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="./assets/pages_qr.png" alt="qrcode of this page" width="400px"/>
+    <img src="./assets/pages_qr.png" alt="qrcode of this page" width="200px"/>
 </p>
 <br/>
 
